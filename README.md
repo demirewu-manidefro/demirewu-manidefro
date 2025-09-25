@@ -53,5 +53,5 @@ Here are some projects showcasing my skills:
 
 ## 📫 Contact Me
 - GitHub: [demirewu-manidefro](https://github.com/demirewu-manidefro)  
-- Email: your-email@example.com *(replace with your email)*  
+- Email: demirewumanidefro@gmail.com  
 
