@@ -39,9 +39,15 @@ Here are some projects showcasing my skills:
 ---
 
 ## 📊 GitHub Stats
-![Demirewu's GitHub stats](https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=radical)
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&count_private=true&theme=react&hide_border=true" width="52%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demirewu-manidefro&theme=react&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=react&hide_border=true" width="45%" />
+</p>
 
 ## ✨ Goals
 - Become a skilled **Full-Stack Web Developer**  
