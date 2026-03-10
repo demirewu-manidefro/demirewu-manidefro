@@ -13,8 +13,8 @@
 
 **Web Development**
 - Frontend: React, HTML, CSS, JavaScript  
-- Backend: Flask, Node.js *(learning)*  
-- Databases: PostgreSQL, MongoDB *(learning)*  
+- Backend: Flask, Node.js  
+- Databases: PostgreSQL, MongoDB   
 
 **Data Science**
 - Pandas, NumPy, Matplotlib, Seaborn  
@@ -28,15 +28,10 @@
 ## 🚀 Projects
 
 - **DB ESS Inventory System**  
-  Node.js + PostgreSQL inventory management system  
   https://github.com/demirewu-manidefro/EES-inontery
-
 - **Ethiopia Rainfall Prediction (AI)**  
-  LSTM rainfall prediction with Flask + React dashboard  
   https://github.com/demirewu-manidefro/Rainfall
-
-- **DBU Gibi Gubae Portal**  
-  University portal project  
+- **DBU Gibi Gubae Portal**   
   https://github.com/abii16/dbu-gibi-gubae
 
 ---
