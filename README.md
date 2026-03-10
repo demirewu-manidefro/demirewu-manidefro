@@ -1,13 +1,9 @@
 # Hi, I'm Demirewu Manidefro 👋
-
 🎓 Data Science Learner at Debrebrhan University  
 💻 Aspiring Full-Stack Web Developer & Data Scientist  
 📈 Passionate about integrating Machine Learning with web applications  
 🧮 Strong mathematical background for Data Science  
-
-
 ## 🌐 Skills
-
 ### Programming Languages
 - Python | Java | R | JavaScript | HTML | CSS  
 
