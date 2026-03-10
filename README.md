@@ -5,7 +5,6 @@
 📈 Passionate about integrating Machine Learning with web applications  
 🧮 Strong mathematical background for Data Science  
 
----
 
 ## 🌐 Skills
 
