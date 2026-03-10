@@ -31,7 +31,7 @@
 Here are some projects showcasing my skills:
 
 - [Employee Material Management System](https://github.com/demirewu-manidefro/Employee_material_managment_system) – Full-stack Flask + PostgreSQL project  
-- [Ethiopian Rain fall pridaction](https://github.com/demirewu-manidefro/Rainfall.git)– Responsive personal portfolio  
+- [Ethiopian Rain fall pridaction](https://github.com/demirewu-manidefro/Rainfall.git)– Web based rain fall pridaction(AI)
 - [ML Projects](https://github.com/demirewu-manidefro/ESS-ML-Project) – Machine learning experiments  
 
 *(Add more links when you complete other projects)*
