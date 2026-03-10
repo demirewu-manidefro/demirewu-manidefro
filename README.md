@@ -9,13 +9,11 @@
 
 # 🌐 Skills
 
-## 💻 Programming Languages
-- Python  
-- Java  
-- R  
-- JavaScript  
-- HTML  
-- CSS  
+## 💻 Programming Language
+Python       JavaScript  
+HTML         CSS 
+Java          R 
+ 
 
 ---
 
