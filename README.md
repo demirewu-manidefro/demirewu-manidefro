@@ -1,4 +1,4 @@
-# Hi, I'm Demirewu Manidefro 👋
+## Hi, I'm Demirewu Manidefro 👋
 🎓 Data Science Learner at Debrebrhan University  
 💻 Aspiring Full-Stack Web Developer & Data Scientist  
 📈 Passionate about integrating Machine Learning with web applications  
