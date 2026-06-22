@@ -1,8 +1,8 @@
 # Hi, I'm Demirewu Manidefro 👋
 
-🎓 Data Science Student at **Debre Berhan University**  
-💻 Aspiring **Full-Stack Web Developer & Data Scientist**  
-📊 Interested in **Machine Learning, Data Science, and AI Web Applications**
+ Data Science Student at **Debre Berhan University**  
+**Full-Stack Web Developer & Data Scientist**  
+Interested in **Machine Learning, Data Science, and AI Web Applications**
 
 ---
 
