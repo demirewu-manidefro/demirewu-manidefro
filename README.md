@@ -9,19 +9,19 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 ## 🌐 Skills
 
 **Programming**
-- Python, Java, R, JavaScript, HTML, CSS
+- Python, R, JavaScript, HTML, CSS
 
 **Web Development**
 - Frontend: React, HTML, CSS, JavaScript  
-- Backend: Flask, Node.js  
+- Backend: Flask, Fast API ,Node.js  
 - Databases: PostgreSQL, MongoDB   
 
 **Data Science**
 - Pandas, NumPy, Matplotlib, Seaborn  
-- Machine Learning (Regression, Classification)
+- Machine Learning & Deeplearning
 
 **Tools**
-- Git & GitHub, VS Code, Jupyter Notebook
+- Git & GitHub, VS Code, Jupyter Notebook,keggle,google colab
 
 ---
 
