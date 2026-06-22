@@ -6,7 +6,7 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 
 
 
-## 🚀 Projects
+## Projects
 
 - **DB ESS Inventory System**  
   https://github.com/demirewu-manidefro/EES-inontery
@@ -15,18 +15,18 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 - **DBU Gibi Gubae Portal**   
   https://github.com/abii16/dbu-gibi-gubae
 
----
 
-## 📊 GitHub Stats
+
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=react&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=demirewu-manidefro&theme=react&hide_border=true" width="48%" />
 </p>
 
----
 
-## 📫 Contact
+
+## Contact
 
 GitHub: https://github.com/demirewu-manidefro  
 Email: demirewumanidefro@gmail.com
