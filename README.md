@@ -4,26 +4,7 @@
 **Full-Stack Web Developer & Data Scientist**  
 Interested in **Machine Learning, Data Science, and AI Web Applications**
 
----
 
-## 🌐 Skills
-
-**Programming**
-- Python, R, JavaScript, HTML, CSS
-
-**Web Development**
-- Frontend: React, HTML, CSS, JavaScript  
-- Backend: Flask, Fast API ,Node.js  
-- Databases: PostgreSQL, MongoDB   
-
-**Data Science**
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Machine Learning & Deeplearning
-
-**Tools**
-- Git & GitHub, VS Code, Jupyter Notebook,keggle,google colab
-
----
 
 ## 🚀 Projects
 
