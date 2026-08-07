@@ -19,7 +19,7 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="170"
@@ -35,7 +35,7 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=tokyonight&hide_border=true" />
