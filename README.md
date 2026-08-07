@@ -20,8 +20,21 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=demirewu-manidefro&theme=react&hide_border=true" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=demirewu-manidefro&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 
