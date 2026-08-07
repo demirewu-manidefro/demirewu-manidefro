@@ -45,7 +45,11 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=demirewu-manidefro&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 ## Contact
 
 GitHub: https://github.com/demirewu-manidefro  
