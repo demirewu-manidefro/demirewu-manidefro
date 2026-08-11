@@ -62,7 +62,6 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
- 
 
 ## Contact
 
