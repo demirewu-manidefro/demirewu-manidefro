@@ -46,12 +46,24 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=demirewu-manidefro&theme=tokyonight&hide_border=true" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=demirewu-manidefro&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="180" 
+    alt="Top Languages"
+  />
 </p>
 
 GitHub: https://github.com/demirewu-manidefro  
