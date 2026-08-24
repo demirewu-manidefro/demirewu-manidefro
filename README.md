@@ -43,7 +43,7 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
   </a>
 </p>
 
-## 📊 GitHub Stats
+
 
 <p align="center">
   <img
