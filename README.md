@@ -14,7 +14,30 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
   https://github.com/demirewu-manidefro/Rainfall
 - **DBU Gibi Gubae Portal**   
   https://github.com/abii16/dbu-gibi-gubae
+## 📊 GitHub Stats
 
+<!-- GitHub Streak + Most Used Languages -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=demirewu-manidefro&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="49%"
+    alt="Most Used Languages"
+  />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=demirewu-manidefro&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ## 📊 GitHub Stats
 
