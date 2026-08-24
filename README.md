@@ -20,22 +20,23 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=demirewu-manidefro&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=demirewu-manidefro&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirewu-manidefro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="48%"
-    alt="Top Languages"
+    src="https://img.shields.io/github/followers/demirewu-manidefro?style=for-the-badge&logo=github&label=Followers"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/demirewu-manidefro?style=for-the-badge&logo=github&label=Stars"
+    alt="GitHub Stars"
+  />
+  <img
+    src="https://komarev.com/ghpvc/?username=demirewu-manidefro&style=for-the-badge&label=Profile+Views"
+    alt="Profile Views"
   />
 </p>
 
