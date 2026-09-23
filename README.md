@@ -50,24 +50,4 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
   </a>
 
 </div>
-## 📊 GitHub Stats
 
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com/?user=demirewu-manidefro&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Streak"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demirewu-manidefro&theme=tokyonight"
-    width="96%"
-    alt="GitHub Profile Details"
-  />
-
-</p>
