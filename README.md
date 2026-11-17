@@ -20,13 +20,7 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 <div align="center">
 
  
-<a href="https://github.com/demirewu-manidefro">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=demirewu-manidefro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&number_format=long&rank_icon=github&cache_seconds=1800"
-    alt="Demirewu's GitHub Statistics"
-  />
-</a>
+
 
 
   <a href="https://github.com/demirewu-manidefro">
