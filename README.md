@@ -8,10 +8,10 @@ Interested in **Machine Learning, Data Science, and AI Web Applications**
 
 ## Projects
 
-- **DB ESS Inventory System**  
-  https://github.com/demirewu-manidefro/EES-inontery
-- **Ethiopia Rainfall Prediction (AI)**  
-  https://github.com/demirewu-manidefro/Rainfall
+- **Ethio-logistics Tradeflow**  
+  https://tradeflow-seven-rust.vercel.app/
+- **A Smart City Exploration Platform**  
+ https://github.com/demirewu-manidefro/Debrebrhan_Navigator.git
 - **DBU Gibi Gubae Portal**   
   https://github.com/abii16/dbu-gibi-gubae
 
