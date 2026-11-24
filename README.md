@@ -1,10 +1,24 @@
 # Hi, I'm Demirewu Manidefro 👋
 
- Data Science Student at **Debre Berhan University**  
-**Full-Stack Web Developer & Data Scientist**  
-Interested in **Machine Learning, Data Science, and AI Web Applications**
+Full-Stack Developer | Data Scientist | AI Enthusiast
 
+Building scalable web applications and intelligent, data-driven solutions powered by AI and machine learning.
 
+## 🛠️ Tech Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,postgres,react,git,aws,vercel&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analysis-2C7A7B?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+
+</div>
 
 ## Projects
 
