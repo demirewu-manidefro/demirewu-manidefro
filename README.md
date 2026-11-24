@@ -29,7 +29,7 @@ Building scalable web applications and intelligent, data-driven solutions powere
 - **A Smart City Exploration Platform**  
  https://github.com/demirewu-manidefro/Debrebrhan_Navigator.git
 - **DBU Gibi Gubae Portal**   
-  https://github.com/abii16/dbu-gibi-gubae
+ https://dbu-gibi-gubae.vercel.app/
 
 ## 📊 GitHub Stats
 
