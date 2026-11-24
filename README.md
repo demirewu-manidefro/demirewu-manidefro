@@ -26,7 +26,7 @@ Building scalable web applications and intelligent, data-driven solutions powere
 
 - **Ethio-logistics Tradeflow**  
   https://tradeflow-seven-rust.vercel.app/
-- ** Acoustic Transformer Protection**
+- **Acoustic Transformer Protection** 
   https://voltecho-ai.up.railway.app/
 - **A Smart City Exploration Platform**  
  https://github.com/demirewu-manidefro/Debrebrhan_Navigator.git
