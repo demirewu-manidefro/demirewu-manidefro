@@ -1,6 +1,8 @@
 # Hi, I'm Demirewu Manidefro 👋
 
-Full-Stack Developer | Data Scientist | AI Enthusiast
+## 👨‍💻 About Me
+
+**Full-Stack Developer | Data Scientist | AI Enthusiast**
 
 Building scalable web applications and intelligent, data-driven solutions powered by AI and machine learning.
 
